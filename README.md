@@ -10,3 +10,16 @@ Lost Voice is an immersive side-scrolling action game built in C++. The game fol
 - Rendering: SDL/OpenGL
 - Physics: Custom collision and gravity system
 - AI: Enemy pathfinding and attack logic
+
+## Controls
+A/D - Move Left/Right
+W - Jump
+Left Click - Attack
+E - Summon Knight
+
+🔥 Features
+Engaging Combat: Attack enemies with a daggers and special abilities.
+Challenging Enemies: Face mages, archers, witches, and reapers.
+Multiple Levels: Explore dark forests and castles.
+Unique Mechanics: Use summoning powers.
+Pixel-Art Style: Classic 2D visuals with atmospheric effects.
