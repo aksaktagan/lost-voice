@@ -22,6 +22,9 @@ Lost Voice is an immersive side-scrolling action game built in C++. The game fol
 ![game won](https://github.com/user-attachments/assets/b8d55a31-a623-489d-be43-bb00680f69c2)
 ![game lose](https://github.com/user-attachments/assets/3a8475ab-cc53-461a-aa46-a788dc8dd61e)
 
+## Video Demo
+https://youtu.be/wknQNRcQjmI?feature=shared
+
 ## Controls
 - A/D - Move Left/Right
 - W - Jump
